@@ -1,7 +1,5 @@
 # Client-Server-File-Transfer
 
-# Client–Server File Transfer (Java)
-
 โปรแกรมนี้เป็นระบบ **รับ–ส่งไฟล์ผ่านเครือข่าย (Client–Server)** เขียนด้วยภาษา Java โดยใช้ Socket (NIO) สำหรับการสื่อสารระหว่างเครื่อง Client และ Server
 
 ---
